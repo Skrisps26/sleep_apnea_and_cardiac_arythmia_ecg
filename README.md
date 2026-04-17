@@ -168,34 +168,10 @@ Download and place under `data/raw/` before running preprocessing.
 
 ---
 
-## 📄 Citation
 
-If you use this code or build upon this work, please cite:
-
-```bibtex
-@article{krishna2023multitask,
-  title   = {Multi-Task Deep Learning for Simultaneous Sleep Apnea and Cardiac
-             Arrhythmia Detection from Single-Lead ECG Using Rate-Invariant
-             Self-Supervised Pretraining},
-  author  = {Sekar, Pragya and Krishna, Sai and V, Sowmiya and A K, Ilavarasi},
-  journal = {IEEE Access},
-  volume  = {11},
-  year    = {2023},
-  doi     = {10.1109/ACCESS.2023.DOI}
-}
 ```
 
----
 
-## 🔭 Future Work
-
-- Incorporate concurrent SpO₂ data for hypoxia-driven arrhythmia identification
-- Break the arrhythmia head into per-AAMI-category sub-heads (V, S, F, Q)
-- Prospective validation on consumer wearables (Apple Watch, Withings)
-- Scale SSL pretraining to tens of millions of beats (PhysioNet, UK Biobank)
-- Hierarchical attention for variable-length recordings
-
----
 
 ## 👥 Authors
 
