@@ -2,7 +2,8 @@
 
 > **Rate-Invariant Self-Supervised Pretraining for Simultaneous OSA and Arrhythmia Detection from Single-Lead ECG**
 
-[![IEEE Access](https://img.shields.io/badge/Published-IEEE%20Access-blue)](https://doi.org/10.1109/ACCESS.2023.DOI)
+
+
 [![Python](https://img.shields.io/badge/Python-3.8%2B-brightgreen)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/Framework-PyTorch-orange)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
